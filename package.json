@@ -1,0 +1,29 @@
+{
+    "name": "jquery-ui-datepicker-thai", 
+    "version": "1.0.0",
+    "description": "Use datepicker thai on Javascript Framework ",
+    "main": "src/jqueryui_datepicker_thai_min.js",
+    "scripts": { 
+     
+    },
+    "repository": { 
+      "type": "git",
+      "url": "git@github.com:beforesecond/jquery-ui-datepicker-thai.git"
+    },
+    "keywords": [ 
+      "npm",
+      "datepicker thai",
+      "jquery ui datepicker thai"
+    ],
+    "author": "BeforeSecond", 
+    "license": "MIT", 
+    "bugs": { 
+      "url": "hhttps://github.com/beforesecond/jquery-ui-datepicker-thai/issues"
+    },
+    "homepage": "https://github.com/beforesecond/jquery-ui-datepicker-thai/blob/master/README.md", 
+    "devDependencies": {
+      "jquery": "^3.3.1",
+      "jquery-ui": "^1.12.1"
+    }
+  }
+  
