@@ -1,6 +1,6 @@
 {
     "name": "jquery-ui-datepicker-thai", 
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Use datepicker thai on Javascript Framework ",
     "main": "src/jqueryui_datepicker_thai_min.js",
     "scripts": { 
